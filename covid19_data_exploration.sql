@@ -1,3 +1,5 @@
+--dataset obtained from https://ourworldindata.org/covid-deaths--
+
 SELECT 
 	*
 FROM 
